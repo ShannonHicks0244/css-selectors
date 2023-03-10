@@ -54,8 +54,8 @@ main > section {
     margin-bottom: 3rem;
 }
 
-main > section h2 > p > strong {
-    color: purple
+main > section h2 + p strong {
+    color: purple;
   }
 
   li:nth-child(2) {
